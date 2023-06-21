@@ -30,7 +30,6 @@ src="https://img.shields.io/github/followers/blinovartem04?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/blinovartem04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blinovartem04&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
