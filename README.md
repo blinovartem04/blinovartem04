@@ -35,7 +35,9 @@ src="https://img.shields.io/github/followers/blinovartem04?logo=github&style=for
 
 
 <b>Top Languages</b>
+
 <a href="https://github.com/blinovartem04" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blinovartem04&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
+
 <div width="100%" align="center"><a href="https://github.com/blinovartem04/Weather-forecast" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blinovartem04&repo=Weather-forecast&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/blinovartem04/Calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blinovartem04&repo=Calculator&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
