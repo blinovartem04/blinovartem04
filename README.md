@@ -2,7 +2,7 @@ Hi 👋 My name is Blinov Artem
 ---
 
 Web Developer
--------------
+
 
 ---
 
