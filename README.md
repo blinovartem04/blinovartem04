@@ -1,4 +1,4 @@
-Hi 👋 My name is Blinov Artem
+Hi 👋 My name is Artem Blinov
 ---
 
 I am a beginner Web Developer 👨‍💻
