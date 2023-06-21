@@ -11,7 +11,7 @@ I am a beginner Web Developer 👨‍💻
 
 ---
 
-### 💻Skills
+### 💻Hard Skills
 
 
 <p align="left">
