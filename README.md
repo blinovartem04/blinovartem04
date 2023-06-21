@@ -1,7 +1,7 @@
 Hi 👋 My name is Blinov Artem
 ---
 
-👨‍💻I am a beginner Web Developer
+I am a beginner Web Developer 👨‍💻
 ---
 
 * 💪 Ready for new challenges and opportunities.
