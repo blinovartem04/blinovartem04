@@ -1,10 +1,10 @@
 Hi 👋 My name is Blinov Artem
 ---
 
-👨‍💻I am a Web Developer
+👨‍💻I am a beginner Web Developer
 ---
 
-Beginner programmer. Ready for new challenges and opportunities.
+* 💪 Ready for new challenges and opportunities.
 
 * ✉️  You can contact me at: [![Telegram Badge](https://img.shields.io/badge/-blin_artem-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/blin_artem) or ![Gmail Badge](https://img.shields.io/badge/-blinovartem04@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
 * 🧠  I'm learning TypeScript, React
