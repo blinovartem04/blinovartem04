@@ -10,8 +10,6 @@ Beginner programmer. Ready for new challenges and opportunities.
 * 🧠  I'm learning TypeScript, React
 * ⚡  “People should pursue what they’re passionate about. That will make them happier than pretty much anything else.”
 
-<a href="https://www.github.com/blinovartem04" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/blinovartem04?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
 ### Skills
 
@@ -25,7 +23,8 @@ src="https://img.shields.io/github/followers/blinovartem04?logo=github&style=for
 
 ### Badges
 
-<b>Commit streak</b>
+
+<b>Commit Streak</b>
 
 <a href="http://www.github.com/blinovartem04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blinovartem04&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
