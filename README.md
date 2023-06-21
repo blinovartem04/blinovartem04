@@ -6,7 +6,7 @@ Web Developer
 
 Beginner programmer. Ready for new challenges and opportunities.
 
-* ✉️  You can contact me at [blinovartem04@gmail.com](mailto:blinovartem04@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-blinovartem04-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/blin_artem) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:blinovartem04@gmail.com)
 * 🧠  I'm learning TypeScript, React
 * ⚡  “People should pursue what they’re passionate about. That will make them happier than pretty much anything else.”
 
