@@ -10,7 +10,7 @@ Beginner programmer. Ready for new challenges and opportunities.
 * 🧠  I'm learning TypeScript, React
 * ⚡  “People should pursue what they’re passionate about. That will make them happier than pretty much anything else.”
 
-  ---
+---
 
 ### 💻Skills
 
