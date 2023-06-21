@@ -6,7 +6,7 @@ Web Developer
 
 Beginner programmer. Ready for new challenges and opportunities.
 
-* ✉️  You can contact me at: Telegramㅤ[![Telegram Badge](https://img.shields.io/badge/-blin_artem-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/blin_artem) and blinovartem04@gmail.com![Gmail Badge](https://img.shields.io/badge/-red?style=flat&logo=Gmail&logoColor=white)
+* ✉️  You can contact me at:ㅤ[![Telegram Badge](https://img.shields.io/badge/-blin_artem-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/blin_artem) and blinovartem04@gmail.com![Gmail Badge](https://img.shields.io/badge/-red?style=flat&logo=Gmail&logoColor=white)
 * 🧠  I'm learning TypeScript, React
 * ⚡  “People should pursue what they’re passionate about. That will make them happier than pretty much anything else.”
 
