@@ -10,7 +10,7 @@ I am a beginner Web Developer 👨‍💻
 * ⚡  “People should pursue what they’re passionate about. That will make them happier than pretty much anything else.”
 
 ---
-
+ 
 ### 💻Hard Skills
 
 
