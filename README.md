@@ -1,7 +1,7 @@
 Hi 👋 My name is Artem Blinov
 ---
 
-I am a beginner Web Developer 👨‍💻
+I am a beginner Developer 👨‍💻
 ---
 
 * 🧠  I'm currently learning TypeScript, React
