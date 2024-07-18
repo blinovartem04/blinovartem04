@@ -19,10 +19,3 @@ I am a beginner Developer 👨‍💻
 </p>
 
 ---
-
-### 🛠Badges
-
-
-<b>Top Languages</b>
-
-<a href="https://github.com/blinovartem04" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blinovartem04/></a>
