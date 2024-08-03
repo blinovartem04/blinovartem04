@@ -1,7 +1,7 @@
 Hi 👋 My name is Artem Blinov
 ---
 
-I am a beginner Developer 👨‍💻
+I am a beginner backend developer👨‍💻
 ---
 
 * 🧠  I'm currently learning Python
