@@ -1,6 +1,6 @@
-# Hi 👋 My name is Artem Blinov
+# Hi 👋 My name is Artem
 ---
-# I am a beginner backend developer👨‍💻
+# I am a backend developer👨‍💻
 ---
 
 * 🧠  Currently getting better at programming on Python
